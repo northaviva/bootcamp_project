@@ -15,3 +15,4 @@ ls -la - list all the files in long format
 I made this change in branch master
 git commit --amend --change the commit message
 git merge 
+
