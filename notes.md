@@ -17,3 +17,6 @@ git commit --amend --change the commit message
 git merge 
 git branch -d -- delete branch
 git checkout -b <number> -- get to the nodes before the number
+git clone
+git push
+git pull
