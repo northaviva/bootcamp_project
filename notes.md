@@ -13,3 +13,4 @@ git brance - show all the brance
 git checkout branchname - switch to the branch
 ls -la - list all the files in long format
 I made this change in branch test
+git commit --amend --change the commit message
