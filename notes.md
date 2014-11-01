@@ -9,8 +9,9 @@ git ls
 touch - create a new file without opening the editor
 less filename - show the file
 git branch branchname - add a new branch to current snapshot
-git brance - show all the brance
+git branch - show all the brance
 git checkout branchname - switch to the branch
 ls -la - list all the files in long format
-I made this change in branch test
+I made this change in branch master
 git commit --amend --change the commit message
+git merge 
