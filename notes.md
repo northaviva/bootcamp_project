@@ -14,3 +14,4 @@ git checkout branchname - switch to the branch
 ls -la - list all the files in long format
 I made this change in branch test
 git commit --amend --change the commit message
+I made this change in branch master
