@@ -15,4 +15,5 @@ ls -la - list all the files in long format
 I made this change in branch master
 git commit --amend --change the commit message
 git merge 
-
+git branch -d -- delete branch
+git checkout -b <number> -- get to the nodes before the number
